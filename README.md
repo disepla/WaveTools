@@ -1,2 +1,2 @@
 # WaveTools
-Tools for ocean wave analysis
+Tools for wave data processing
